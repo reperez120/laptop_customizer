@@ -1,6 +1,5 @@
 
 import React from 'react';
-import './FeatureItem.css'
 
 export default class FeatureItem extends React.Component {
 
